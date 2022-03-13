@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KatieGIS
 - 👀 I’m a GIS full stack developer/GIS solutions architect.
-- 🌱 I’m currently learning towards Data Science and deep graphic learning.
+- 🌱 I’m currently learning towards Data Science.
 - 💞️ I’m looking to collaborate on realtime data visualization programs/projects.
 - 📫 Please contact me via my email.
 
